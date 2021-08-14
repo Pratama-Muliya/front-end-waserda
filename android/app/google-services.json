@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357314980185",
+    "project_id": "waserda-5cfbb",
+    "storage_bucket": "waserda-5cfbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357314980185:android:9a309578ac8dc3206c0448",
+        "android_client_info": {
+          "package_name": "com.pratama.waserda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357314980185-u5i4s6kusnh9bd268ust96sb8svq3js0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWK_OlXzCnelHL1G4FJDSsZnrvzUNnp8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357314980185-u5i4s6kusnh9bd268ust96sb8svq3js0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
